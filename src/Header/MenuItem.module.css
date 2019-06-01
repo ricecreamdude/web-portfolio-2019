@@ -1,0 +1,22 @@
+.menuItem {
+  float: left;
+  font-size: 1.4em;
+  margin: 0 15px;
+  padding: 15px 0;
+}
+
+.menuItem:link{
+  color: white;
+}
+
+.menuItem a{
+  color: #f3f3f3;
+  transition: 150ms;
+  text-decoration: none;
+}
+
+
+.menuItem a:hover{
+  color: red;
+  transition: 150ms;
+}

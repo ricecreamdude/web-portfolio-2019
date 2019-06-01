@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+* {
+
+}
+
+.App {
+  display: block;
+}
+
+.header{
+  display: block;
+  padding: 0px 12%;
+  background-color: #1B242F;
+  border-bottom: 3px solid #04C2C9;
+}

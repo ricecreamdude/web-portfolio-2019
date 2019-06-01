@@ -1,0 +1,11 @@
+.header{
+  color: #f3f3f3;
+  /* height: 50px; */
+}
+
+.header::after{ 
+  content: " ";
+  display: block; 
+  height: 0; 
+  clear: both;
+}
