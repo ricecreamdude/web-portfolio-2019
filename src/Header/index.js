@@ -1,6 +1,7 @@
 import React from 'react';
 import MenuItem from './MenuItem'
 import styles from './Header.module.css'
+import SocialBar from './SocialBar';
 
 class Header extends React.Component{
 
@@ -25,6 +26,7 @@ class Header extends React.Component{
     return (
       <div className={styles.header}>
         {menu}
+        <SocialBar />
       </div>
     )
   }
