@@ -1,5 +1,4 @@
-[![CircleCI](https://circleci.com/build-insights/gh/ricecreamdude/web-portfolio-2019/master.svg?style=svg)](https://circleci.com/build-insights/gh/ricecreamdude/web-portfolio-2019/master)
-
+[![CircleCI](https://circleci.com/gh/ricecreamdude/web-portfolio-2019.svg?style=svg)](https://circleci.com/gh/ricecreamdude/web-portfolio-2019)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
