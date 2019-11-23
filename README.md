@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Joshua Ho's 2019 Web Portfolio
 http://joshuaho.me
 
@@ -23,6 +24,9 @@ I want to use the following technologies to accomplish the goals I listed above
 
 
 # Boilerplate
+=======
+[![CircleCI](https://circleci.com/gh/ricecreamdude/web-portfolio-2019.svg?style=svg)](https://circleci.com/gh/ricecreamdude/web-portfolio-2019)
+>>>>>>> 42bd9676d33d2914c9c057e3d010282f1a0d35d8
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
