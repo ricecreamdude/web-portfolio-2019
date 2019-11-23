@@ -1,3 +1,29 @@
+# Joshua Ho's 2019 Web Portfolio
+http://joshuaho.me
+
+## Overview 
+
+This purpose of this project is to create a single-page web application that will serve as my online portfolio, with the aim of displaying the following in an attractive manner:
+
+  1. Technical side-projects I am working on
+  2. Understanding of the construction of an attractive, engaging UI
+  3. Past projects that I have worked on for clients that utilizes a modal for information display
+  4. Continuous integration with a Node-based server
+
+
+## Technologies 
+
+I want to use the following technologies to accomplish the goals I listed above
+
+  1. Application Framework - [React.js](https://reactjs.org/)
+  2. UI - React Components Library [Ant Design](https://ant.design/)
+  3. Routing - [React Router Dom](https://www.npmjs.com/package/react-router-dom)
+  4. Database - Python??? Unsure if this needs to be implemented.
+
+
+
+# Boilerplate
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
